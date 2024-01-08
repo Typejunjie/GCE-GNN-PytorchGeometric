@@ -1,0 +1,11 @@
+*.csv
+*.dataset
+*.pt
+*.dat
+*.localhost
+__pycache__/
+
+test.ipynb
+log/
+log_test/
+model_repository/
